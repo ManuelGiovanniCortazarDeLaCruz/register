@@ -20,7 +20,7 @@ Para compilar el programa, abre una terminal y navega al directorio donde se enc
 
 ```bash
 gcc register.c -o <nombreDeArchivo>
-
+```
 ## Ejecución
 ./<nombreDeArchivo> <numero_de_iteraciones>
 
